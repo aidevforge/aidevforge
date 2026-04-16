@@ -101,19 +101,29 @@ I'm equally experienced building robust **full-stack web applications**, designi
 <tr>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt=".NET" width="48" height="48" /><br>.NET</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="ASP.NET" width="48" height="48" /><br>ASP.NET</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=blazor&theme=dark" alt="Blazor" width="48" height="48" /><br>Blazor</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=unity&theme=dark" alt="Unity" width="48" height="48" /><br>Unity</td>
 </tr>
 </table>
 
 <table>
-<tr><th colspan="5">Databases</th></tr>
+<tr><th colspan="4">Mobile Development</th></tr>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" width="48" height="48" /><br>Flutter</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" alt="Android Studio" width="48" height="48" /><br>Android Studio</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=swift&theme=dark" alt="Swift" width="48" height="48" /><br>iOS / Swift</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=dart&theme=dark" alt="Dart" width="48" height="48" /><br>Dart</td>
+</tr>
+</table>
+
+<table>
+<tr><th colspan="7">Databases & BaaS</th></tr>
 <tr>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" width="48" height="48" /><br>PostgreSQL</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" width="48" height="48" /><br>MongoDB</td>
 <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" /><br>MySQL</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" width="48" height="48" /><br>Redis</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=prisma&theme=dark" alt="Prisma" width="48" height="48" /><br>Prisma</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="Supabase" width="48" height="48" /><br>Supabase</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" width="48" height="48" /><br>Firebase</td>
 </tr>
 </table>
 
