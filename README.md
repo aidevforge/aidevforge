@@ -2,80 +2,63 @@
 
 # Hi, I'm Sam 👋
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=AI+Agent+%26+LLM+Engineer;Building+real-world+AI+products;Python+%7C+Node.js+%7C+Next.js+%7C+RAG+%7C+Agents"
-  alt="Typing SVG"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=AI+Agent+%26+LLM+Engineer;Building+real-world+AI+systems;Python+%7C+Node.js+%7C+Next.js+%7C+RAG+%7C+Agents" alt="Typing SVG" />
 
-<br />
+<p>
+I build production-minded AI products, agent workflows, and full-stack systems with a focus on clean architecture, strong UX, and real-world delivery.
+</p>
 
-I build practical AI systems, agent workflows, and full-stack apps with a focus on clean architecture, scalability, and real-world product delivery.
-
-<br /><br />
-
-<img
-  src="https://skillicons.dev/icons?i=python,ts,js,nodejs,nextjs,react,fastapi,express,nestjs,postgres,supabase,aws,docker,git,github&perline=5"
-  alt="Tech stack icons"
-/>
+<img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,nextjs,react,fastapi,express,nestjs,postgres,supabase,aws,docker,git,github&perline=5" alt="Tech stack icons" />
 
 </div>
 
 ---
 
-## About Me
+## What I build
 
-- Building AI agents, LLM apps, and RAG-based systems
-- Strong in full-stack development and backend architecture
-- Focused on production-ready products, not just demos
-- Interested in real-time AI, automation, and developer tooling
-
----
-
-## Core Focus
-
-- AI Agents
-- LLM Applications
-- RAG Pipelines
-- Multi-agent Workflows
-- Full-Stack Product Development
-- Scalable Backend Systems
+- AI agent systems with tool calling, workflow orchestration, and practical product logic
+- LLM-powered apps with RAG, retrieval pipelines, and real-time interactions
+- Full-stack web products using Python, Node.js, Next.js, and modern cloud tooling
+- Backends designed for maintainability, scale, and production use
 
 ---
 
-## Stack
+## Selected work
 
-**Languages**  
-Python, TypeScript, JavaScript
+### [researchPlatform](https://github.com/aidevforge/researchPlatform)
+A full-stack research platform that applies Socratic questioning to modern media research, with article retrieval, summaries, bias ratings, interactive investigation flows, and a TypeScript + Astro/React + Express + Supabase stack.
 
-**Frontend**  
-Next.js, React
+### [health-agent-backend](https://github.com/aidevforge/health-agent-backend)
+A Python backend for healthcare-oriented AI workflows, including transcription, AI-agent session processing, dashboard stats, and patient/session APIs.
 
-**Backend**  
-Node.js, Express, NestJS, FastAPI
-
-**AI / LLM**  
-OpenAI, Claude, Gemini, RAG, vector search, agent workflows
-
-**Infra / Data**  
-PostgreSQL, Supabase, AWS, Docker
+### [game_platform](https://github.com/aidevforge/game_platform)
+A TypeScript-based app built with a modern component-driven frontend structure using Next.js-style architecture.
 
 ---
 
-## Featured Work
+## Current focus
 
-Here are the kinds of systems I like building:
-
-- AI agent platforms with tool calling and memory
-- LLM apps for workflow automation
-- RAG systems for document search and Q&A
-- Full-stack products with modern web architecture
+- AI agents that solve practical product problems
+- RAG systems that are actually usable in production
+- Real-time AI UX and workflow automation
+- Scalable backend systems for modern apps
 
 ---
 
-## Philosophy
+## Approach
 
-I like building AI products that are useful, maintainable, and ready for real users.  
-Fast to ship. Clean under the hood. Easy to extend.
+I like building software that feels simple on the surface and solid underneath.
+
+Fast to ship.
+Easy to maintain.
+Ready for real users.
+
+---
+
+## GitHub profile
+
+- Building in public through AI, LLM, and full-stack projects
+- Always improving architecture, developer experience, and product quality
 
 ---
 
