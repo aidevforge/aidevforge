@@ -1,13 +1,3 @@
-<!--
-Eugene, Senior AI Agent & Full-Stack Engineer | Python, LangChain, Next.js, Node.js
-Building production-ready AI Agents, LLM-powered SaaS platforms, RAG pipelines,
-chatbots, copilots, and full-stack web applications.
-Keywords: AI Agent Developer, LLM Engineer, LangChain, RAG, OpenAI, Generative AI,
-Chatbot Development, Python Developer, TypeScript Developer, Next.js Developer,
-Node.js Developer, FastAPI, Full-Stack Engineer, Vector Database, SaaS Engineer,
-React Developer, REST API, GraphQL, Docker, Cloud Deployment, Remote AI Engineer.
--->
-
 <div align="center">
 
 <a href="https://github.com/aidevforge">
@@ -278,7 +268,7 @@ Engineered an **experimental multi-step offline pipeline** that converts 2D imag
 <br /><br />
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=aidevforge&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Eugene's GitHub profile trophies" />
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=aidevforge&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Eugene's GitHub profile trophies" onerror="this.src='https://github-profile-trophy-kannan.vercel.app/?username=aidevforge&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7'" />
 </a>
 
 <br /><br />
