@@ -263,22 +263,6 @@ Engineered an **experimental multi-step offline pipeline** that converts 2D imag
 ## GitHub Analytics
 
 <div align="center">
-
-<a href="https://github.com/aidevforge">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aidevforge&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=EC4899&text_color=C9D1D9" alt="Eugene's GitHub stats, AI Agent and LLM Engineer" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=aidevforge&theme=radical&hide_border=true&background=0D1117&stroke=7C3AED&ring=EC4899&fire=F59E0B&currStreakLabel=7C3AED" alt="Eugene's GitHub contribution streak" />
-</a>
-
-<br /><br />
-
-<a href="https://github.com/aidevforge">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidevforge&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&langs_count=10" alt="Eugene's most used programming languages, Python, TypeScript, JavaScript" />
-</a>
-
-<br /><br />
-
-<br /><br />
-
 <a href="https://github.com/aidevforge">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aidevforge&theme=react-dark&hide_border=true&bg_color=0D1117&color=7C3AED&line=EC4899&point=0EA5E9&area=true&area_color=7C3AED" alt="Eugene's GitHub contribution activity graph" />
 </a>
