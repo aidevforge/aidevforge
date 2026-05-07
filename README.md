@@ -9,15 +9,8 @@ React Developer, REST API, GraphQL, Docker, Cloud Deployment, Remote AI Engineer
 -->
 
 <div align="center">
-
 <a href="https://github.com/aidevforge">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0ea5e9,50:7c3aed,100:ec4899&text=Eugene&fontColor=ffffff&fontSize=70&fontAlignY=34&desc=AI%20Agent%20%7C%20LLM%20Engineer%20%7C%20Full-Stack%20Developer&descSize=20&descAlignY=56&animation=fadeIn" width="100%" alt="Eugene, Senior AI Agent and LLM Engineer | Python, LangChain, Next.js, Node.js" />
-</a>
-
-<br />
-
-<a href="https://github.com/aidevforge">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&multiline=false&width=900&lines=Senior+AI+%26+Full-Stack+Engineer+%E2%9A%A1;Building+AI+Agents%2C+LLM+Apps+%26+RAG+Pipelines;Python+%7C+TypeScript+%7C+Next.js+%7C+Node.js;Production-Grade+Code+%7C+End-to-End+Delivery" alt="Animated typing header introducing Eugene as a Senior AI and Full-Stack Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&multiline=false&width=900&lines=Senior+AI+%26+Full-Stack+Engineer+%E2%9A%A1;Building+AI+Agents%2C+LLM+Apps+%26+RAG+Pipelines;Python+%7C+TypeScript+%7C+Next.js+%7C+Node.js;Production-Grade+Code+%7C+End-to-End+Delivery" alt="Animated typing header introducing me as a Senior AI and Full-Stack Engineer" />
 </a>
 
 <br /><br />
